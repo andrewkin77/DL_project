@@ -22,7 +22,7 @@ docker run andrewkin77/whisper-test
 
 ## How to build Docker image
 
-Firstly clone this repository recursively
+Firstly clone this repository
 
 ```
 git clone https://github.com/andrewkin77/DL_project.git 
